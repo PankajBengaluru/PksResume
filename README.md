@@ -1,2 +1,2 @@
 # PksResume
-The Pankaj's Resume to learn to write
+The Pankaj's Resume.
